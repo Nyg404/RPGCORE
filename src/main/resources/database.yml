@@ -1,0 +1,8 @@
+# Выбор типа базы данных
+# Sqlite / MySql
+type: Sqlite
+
+MySql:
+  jdbc: ""
+  username: ""
+  password: ""

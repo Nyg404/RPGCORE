@@ -1,0 +1,4 @@
+name: RPGCORE
+version: '1.0-SNAPSHOT'
+main: io.github.Nyg404.PGCORE.RPGCORE
+api-version: '1.21'
